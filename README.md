@@ -18,7 +18,7 @@
 ## Get in Touch 📫
 
 Feel free to connect with me:
-- **[LinkedIn- https://www.linkedin.com/in/yubaraj-dey]** 🌐
+- **[LinkedIn- https://www.linkedin.com/in/yubaraj-dey-911979287/]** 🌐
 - **[LeetCode- https://leetcode.com/u/yubarajdey01/]** 🐦
 
 Thank you for visiting my profile! Let's build something amazing together! 💡
