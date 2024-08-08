@@ -1,7 +1,29 @@
-<h1 align="center">Hi 👋, I'm Yubaraj Dey</h1>
-<h3 align="center">I am passionate computer geek who loves to explore new techs.</h3>
+# Welcome to Yubaraj Dey's GitHub Profile! 👋
 
-- 🔭 I’m currently working on **Web Technologies**
+## About Me 🚀
 
-- 📫 How to reach me **yubarajdey01@gmail.com**
+**Hi, I'm Yubaraj Dey!** 👨‍💻
+
+- 🎓 Currently pursuing a **BCA** from **Brainware University, Kolkata**.
+- 💻 Passionate about **coding** and **software development**.
+- 🌟 Eager to **develop new skills** and **explore innovative technologies**.
+- 🌐 Always excited to collaborate and learn from the vibrant tech community.
+
+## What I Do 🛠️
+
+- **Exploring Algorithms**: From classic problems to cutting-edge algorithms, I love solving challenges.
+- **Building Projects**: Working on diverse projects to apply and expand my knowledge.
+- **Learning Continuously**: Embracing new technologies and techniques to stay ahead in the tech world.
+
+## Get in Touch 📫
+
+Feel free to connect with me:
+- **[LinkedIn]([https://www.linkedin.com/in/yubaraj-dey](https://www.linkedin.com/in/yubaraj-dey-911979287/))** 🌐
+- **[LeetCode]([https://leetcode.com/u/yubarajdey01/])** 🐦
+
+Thank you for visiting my profile! Let's build something amazing together! 💡
+
+---
+
+*“The best way to predict the future is to invent it.”* – Alan Kay
 
